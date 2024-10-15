@@ -27,3 +27,11 @@ CREATE OR REPLACE EXTERNAL ACCESS INTEGRATION GITHUB_EXTERNAL_ACCESS_INTEGRATION
     ALLOWED_NETWORK_RULES = ('GITHUB_NETWORK_RULE')
     ENABLED = TRUE
     COMMENT = 'External access integration for GitHub';
+
+-- Create Email Notification Integration
+CREATE OR REPLACE NOTIFICATION INTEGRATION drift_report_email_integration
+  TYPE=EMAIL
+  ENABLED=TRUE;
+
+GRANT EXECUTE TASK ON ACCOUNT TO ROLE accountadmin;
+GRANT USAGE ON INTEGRATION drift_report_email_integration TO ROLE accountadmin;
