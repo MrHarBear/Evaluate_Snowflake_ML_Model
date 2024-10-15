@@ -1,0 +1,201 @@
+POLICY_NUMBER,INCIDENT_DATE,INCIDENT_TYPE,INCIDENT_SEVERITY,AUTHORITIES_CONTACTED,INCIDENT_HOUR_OF_THE_DAY,NUMBER_OF_VEHICLES_INVOLVED,BODILY_INJURIES,WITNESSES,POLICE_REPORT_AVAILABLE,CLAIM_AMOUNT,FRAUD_REPORTED
+140,2015-02-11,Single Vehicle Collision,Major Damage,Other,3,3,1,0,?,60545,true
+831,2015-01-22,Single Vehicle Collision,Minor Damage,Fire,23,1,1,1,NO,64350,false
+627,2015-01-06,Multi-vehicle Collision,Total Loss,None,0,1,1,1,?,64899,true
+50,2015-02-21,Single Vehicle Collision,Total Loss,Other,23,3,0,1,?,53280,false
+899,2015-02-16,Parked Car,Minor Damage,Other,23,1,1,1,NO,3190,false
+651,2015-02-20,Multi-vehicle Collision,Trivial Damage,Fire,3,1,2,0,YES,7269,false
+775,2015-01-20,Multi-vehicle Collision,Major Damage,Fire,19,3,1,2,NO,68310,false
+931,2015-01-08,Single Vehicle Collision,Minor Damage,None,0,1,1,2,?,54943,false
+852,2015-02-01,Multi-vehicle Collision,Major Damage,Ambulance,0,3,2,0,NO,93017,false
+319,2015-02-26,Multi-vehicle Collision,Major Damage,Ambulance,3,3,0,2,?,63820,false
+711,2015-01-19,Multi-vehicle Collision,Major Damage,Police,19,3,1,1,?,56160,false
+487,2015-02-17,Parked Car,Major Damage,None,0,3,0,3,NO,2209,false
+425,2015-02-23,Single Vehicle Collision,Total Loss,None,3,3,1,1,NO,60600,false
+453,2015-02-17,Parked Car,Trivial Damage,Other,19,3,0,2,YES,54149,false
+430,2015-02-28,Multi-vehicle Collision,Total Loss,Ambulance,3,3,1,0,NO,77001,true
+172,2015-01-19,Parked Car,Major Damage,Police,19,1,1,3,NO,56117,false
+19,2015-01-09,Multi-vehicle Collision,Minor Damage,Fire,23,1,1,1,YES,61748,false
+954,2015-03-01,Multi-vehicle Collision,Total Loss,Ambulance,0,1,2,2,YES,8810,false
+589,2015-01-17,Vehicle Theft,Trivial Damage,Police,19,3,0,0,YES,6991,false
+714,2015-02-13,Multi-vehicle Collision,Major Damage,Fire,0,3,2,3,NO,55440,true
+992,2015-01-22,Single Vehicle Collision,Major Damage,Police,3,2,0,0,?,86130,false
+883,2015-02-08,Single Vehicle Collision,Minor Damage,Police,3,1,0,2,YES,60190,true
+157,2015-02-08,Single Vehicle Collision,Minor Damage,Fire,19,1,0,2,NO,82265,false
+858,2015-01-09,Single Vehicle Collision,Trivial Damage,Police,20,1,0,0,?,68571,true
+615,2015-01-21,Multi-vehicle Collision,Total Loss,None,3,4,2,3,YES,48166,true
+840,2015-02-05,Single Vehicle Collision,Minor Damage,Fire,3,1,0,0,YES,52383,false
+320,2015-03-01,Multi-vehicle Collision,Minor Damage,Police,19,3,1,0,?,57108,true
+230,2015-02-01,Single Vehicle Collision,Minor Damage,Ambulance,3,1,0,0,?,49935,false
+288,2015-02-15,Single Vehicle Collision,Major Damage,Other,0,1,2,1,NO,68978,false
+477,2015-01-16,Multi-vehicle Collision,Minor Damage,Police,3,1,0,0,YES,68934,true
+695,2015-01-21,Parked Car,Total Loss,Police,0,3,1,1,?,4982,false
+593,2015-02-25,Single Vehicle Collision,Minor Damage,Police,0,1,1,1,YES,41698,false
+923,2015-01-14,Multi-vehicle Collision,Minor Damage,Other,23,1,1,2,YES,5723,true
+43,2015-01-01,Single Vehicle Collision,Minor Damage,Police,19,1,0,2,?,87950,false
+471,2015-01-28,Single Vehicle Collision,Minor Damage,Fire,0,1,2,3,NO,77697,false
+322,2015-01-04,Single Vehicle Collision,Major Damage,Ambulance,0,1,2,3,NO,6213,false
+541,2015-02-16,Single Vehicle Collision,Major Damage,None,19,1,1,3,?,46980,true
+25,2015-02-05,Multi-vehicle Collision,Major Damage,Police,0,1,0,0,?,45511,false
+841,2015-02-27,Multi-vehicle Collision,Total Loss,Fire,19,3,0,3,NO,8994,false
+42,2015-01-30,Single Vehicle Collision,Minor Damage,Other,3,1,1,2,NO,6317,false
+661,2015-02-18,Single Vehicle Collision,Minor Damage,Ambulance,3,3,2,3,?,67765,false
+440,2015-02-27,Multi-vehicle Collision,Minor Damage,Police,19,3,2,1,NO,39514,false
+375,2015-01-22,Single Vehicle Collision,Minor Damage,Police,23,3,1,3,YES,81070,false
+214,2015-02-18,Multi-vehicle Collision,Minor Damage,Fire,0,3,0,2,NO,61561,false
+865,2015-01-14,Multi-vehicle Collision,Major Damage,Ambulance,19,4,0,3,NO,78115,false
+730,2015-01-19,Single Vehicle Collision,Minor Damage,Other,20,1,0,2,YES,51121,false
+465,2015-01-24,Multi-vehicle Collision,Major Damage,Other,3,3,0,1,NO,51944,true
+33,2015-01-14,Multi-vehicle Collision,Major Damage,Other,20,4,1,1,NO,77673,true
+573,2015-02-02,Multi-vehicle Collision,Total Loss,Other,23,1,0,1,?,53280,false
+468,2015-01-09,Vehicle Theft,Major Damage,Other,23,1,2,3,?,65045,false
+250,2015-01-17,Single Vehicle Collision,Minor Damage,Other,23,1,0,1,YES,87418,false
+121,2015-02-14,Vehicle Theft,Minor Damage,Fire,0,1,0,3,NO,55961,true
+807,2015-02-25,Single Vehicle Collision,Minor Damage,Ambulance,0,1,1,1,NO,79090,false
+201,2015-02-23,Single Vehicle Collision,Minor Damage,Ambulance,20,1,2,3,YES,69230,false
+138,2015-02-01,Single Vehicle Collision,Total Loss,Other,20,1,1,2,YES,56607,false
+937,2015-02-23,Single Vehicle Collision,Major Damage,None,3,1,1,0,NO,49800,true
+873,2015-01-24,Single Vehicle Collision,Major Damage,Police,19,3,2,1,NO,57762,false
+287,2015-02-22,Parked Car,Minor Damage,Fire,23,3,2,3,?,5940,false
+386,2015-02-13,Multi-vehicle Collision,Minor Damage,Police,0,3,1,1,NO,56534,false
+307,2015-01-18,Multi-vehicle Collision,Total Loss,Ambulance,3,1,1,3,NO,34267,false
+35,2015-02-19,Single Vehicle Collision,Total Loss,Ambulance,0,3,0,1,?,57801,true
+216,2015-02-14,Single Vehicle Collision,Total Loss,Police,3,1,1,0,YES,64800,true
+355,2015-02-05,Multi-vehicle Collision,Total Loss,Ambulance,3,1,1,1,?,6160,false
+726,2015-01-22,Parked Car,Total Loss,Police,19,3,2,2,NO,81865,false
+864,2015-01-10,Multi-vehicle Collision,Trivial Damage,Other,3,1,1,0,?,70670,false
+542,2015-02-01,Multi-vehicle Collision,Minor Damage,Ambulance,19,3,2,1,YES,61525,true
+795,2015-02-13,Multi-vehicle Collision,Minor Damage,Fire,3,1,2,1,NO,77110,false
+850,2015-01-28,Single Vehicle Collision,Total Loss,Other,20,1,1,3,?,78638,false
+601,2015-01-09,Single Vehicle Collision,Total Loss,None,19,1,0,1,NO,6490,false
+599,2015-01-19,Single Vehicle Collision,Minor Damage,Police,19,3,1,3,YES,51907,true
+244,2015-01-16,Single Vehicle Collision,Minor Damage,Fire,23,3,1,0,NO,44590,false
+305,2015-01-22,Vehicle Theft,Minor Damage,Police,3,1,0,0,?,59040,false
+952,2015-01-06,Single Vehicle Collision,Minor Damage,Ambulance,3,1,1,1,NO,6093,false
+790,2015-01-18,Single Vehicle Collision,Minor Damage,Police,0,1,2,1,?,39082,false
+866,2015-01-24,Single Vehicle Collision,Total Loss,Police,3,1,0,1,?,2640,false
+255,2015-02-24,Single Vehicle Collision,Minor Damage,None,20,1,1,0,YES,84692,false
+534,2015-02-28,Parked Car,Major Damage,None,3,3,1,0,NO,82765,true
+310,2015-02-03,Single Vehicle Collision,Major Damage,Police,20,1,0,2,YES,40603,false
+116,2015-01-12,Single Vehicle Collision,Major Damage,Police,20,3,2,1,?,68135,false
+603,2015-01-21,Single Vehicle Collision,Major Damage,Fire,3,3,2,3,NO,78121,false
+886,2015-02-05,Single Vehicle Collision,Major Damage,Ambulance,19,2,0,0,?,28199,false
+407,2015-02-06,Single Vehicle Collision,Total Loss,Fire,3,1,2,2,YES,56595,true
+874,2015-01-24,Single Vehicle Collision,Minor Damage,Fire,3,1,0,2,?,35829,false
+736,2015-02-01,Single Vehicle Collision,Total Loss,Police,3,1,0,2,NO,67628,false
+26,2015-02-02,Multi-vehicle Collision,Total Loss,Ambulance,3,3,2,2,?,47464,false
+506,2015-02-08,Single Vehicle Collision,Major Damage,Ambulance,0,3,2,3,?,53647,true
+922,2015-01-01,Single Vehicle Collision,Total Loss,Police,0,1,1,3,?,46810,false
+518,2015-02-06,Multi-vehicle Collision,Minor Damage,Police,3,3,1,2,?,94382,true
+929,2015-02-24,Single Vehicle Collision,Trivial Damage,Ambulance,3,3,1,1,YES,69326,false
+266,2015-02-20,Multi-vehicle Collision,Total Loss,Police,3,1,2,1,YES,5900,false
+613,2015-02-19,Vehicle Theft,Minor Damage,Police,0,1,2,2,YES,67727,false
+455,2015-01-18,Multi-vehicle Collision,Minor Damage,Ambulance,3,3,1,1,?,62279,false
+273,2015-01-01,Single Vehicle Collision,Total Loss,Other,23,3,0,1,?,72008,false
+638,2015-01-13,Single Vehicle Collision,Total Loss,Other,23,1,2,0,NO,70681,false
+671,2015-02-27,Multi-vehicle Collision,Total Loss,Other,3,1,1,0,YES,5500,true
+378,2015-02-27,Multi-vehicle Collision,Minor Damage,Ambulance,23,3,2,1,NO,3300,false
+805,2015-01-14,Single Vehicle Collision,Major Damage,Police,19,3,2,0,YES,86489,true
+885,2015-01-26,Single Vehicle Collision,Major Damage,Ambulance,0,1,2,1,YES,77026,false
+337,2015-01-26,Single Vehicle Collision,Total Loss,Police,3,3,0,3,NO,61316,false
+5,2015-02-12,Multi-vehicle Collision,Total Loss,Police,23,2,2,1,?,42792,false
+808,2015-02-02,Single Vehicle Collision,Minor Damage,Ambulance,23,1,2,2,NO,52696,false
+993,2015-02-23,Single Vehicle Collision,Minor Damage,Police,3,1,2,2,YES,73423,false
+460,2015-01-02,Single Vehicle Collision,Trivial Damage,None,20,1,0,0,?,6198,false
+519,2015-02-12,Multi-vehicle Collision,Major Damage,None,23,2,0,3,YES,79558,false
+699,2015-02-06,Multi-vehicle Collision,Total Loss,None,0,3,0,0,?,57700,false
+259,2015-01-29,Multi-vehicle Collision,Total Loss,Ambulance,23,1,2,3,NO,4189,false
+55,2015-01-12,Multi-vehicle Collision,Major Damage,Fire,19,1,0,3,YES,51889,false
+325,2015-02-01,Vehicle Theft,Minor Damage,None,20,3,2,2,?,59533,false
+152,2015-01-02,Single Vehicle Collision,Major Damage,Police,23,1,1,1,?,39329,false
+423,2015-02-02,Single Vehicle Collision,Minor Damage,Other,20,1,0,1,YES,43599,false
+901,2015-01-20,Vehicle Theft,Major Damage,Other,3,3,2,3,?,69302,true
+995,2015-02-13,Vehicle Theft,Minor Damage,Police,19,3,2,0,?,61740,true
+551,2015-02-04,Multi-vehicle Collision,Total Loss,Ambulance,3,3,1,1,YES,70285,true
+231,2015-02-25,Multi-vehicle Collision,Major Damage,Ambulance,0,3,2,0,YES,81422,false
+143,2015-01-07,Parked Car,Trivial Damage,Fire,0,1,0,0,?,49906,false
+20,2015-01-12,Single Vehicle Collision,Minor Damage,Other,20,1,1,2,?,44966,true
+958,2015-01-26,Multi-vehicle Collision,Minor Damage,Ambulance,23,3,0,2,NO,73367,false
+146,2015-02-16,Multi-vehicle Collision,Major Damage,None,0,3,0,2,?,81818,false
+547,2015-01-07,Multi-vehicle Collision,Total Loss,Police,0,1,0,1,NO,6400,false
+261,2015-01-11,Parked Car,Minor Damage,Ambulance,3,3,0,0,?,64660,false
+913,2015-01-10,Vehicle Theft,Major Damage,Other,3,3,0,2,YES,68526,true
+702,2015-02-19,Multi-vehicle Collision,Total Loss,Other,3,3,0,2,YES,101142,true
+457,2015-01-03,Single Vehicle Collision,Major Damage,None,0,1,1,0,NO,75399,false
+12,2015-02-11,Multi-vehicle Collision,Minor Damage,Fire,0,1,1,0,YES,6828,true
+839,2015-02-27,Multi-vehicle Collision,Minor Damage,Other,3,3,2,1,YES,68602,true
+674,2015-01-20,Single Vehicle Collision,Total Loss,Police,19,1,1,3,NO,66950,false
+571,2015-02-12,Multi-vehicle Collision,Major Damage,None,20,4,2,0,?,54431,true
+349,2015-02-16,Multi-vehicle Collision,Major Damage,Other,0,3,2,0,?,7110,false
+267,2015-01-03,Single Vehicle Collision,Minor Damage,Police,0,1,2,2,YES,8842,false
+458,2015-02-02,Single Vehicle Collision,Minor Damage,Ambulance,23,1,2,3,NO,57330,true
+516,2015-01-19,Single Vehicle Collision,Major Damage,Police,0,3,0,0,YES,88477,false
+997,2015-01-13,Single Vehicle Collision,Minor Damage,Ambulance,3,1,0,1,YES,78437,false
+252,2015-02-28,Multi-vehicle Collision,Minor Damage,Police,0,1,2,2,NO,60600,false
+164,2015-01-05,Multi-vehicle Collision,Total Loss,Other,20,1,1,1,NO,74255,false
+209,2015-02-21,Multi-vehicle Collision,Minor Damage,Other,20,1,2,3,NO,75596,true
+895,2015-02-01,Single Vehicle Collision,Trivial Damage,Fire,3,1,1,0,NO,6160,true
+141,2015-02-03,Single Vehicle Collision,Minor Damage,Police,3,1,0,2,?,90715,true
+191,2015-02-13,Multi-vehicle Collision,Total Loss,Other,19,3,0,2,NO,55499,false
+462,2015-01-07,Multi-vehicle Collision,Minor Damage,Police,3,3,0,3,YES,2229,false
+916,2015-02-16,Single Vehicle Collision,Minor Damage,Other,19,3,1,0,?,58995,true
+411,2015-01-15,Multi-vehicle Collision,Trivial Damage,Other,3,1,2,3,YES,97334,false
+947,2015-01-21,Single Vehicle Collision,Minor Damage,Ambulance,0,1,1,2,YES,57330,false
+364,2015-02-05,Single Vehicle Collision,Major Damage,Police,23,1,2,2,NO,50470,false
+66,2015-02-11,Multi-vehicle Collision,Total Loss,Fire,3,1,0,1,NO,4320,false
+380,2015-03-01,Multi-vehicle Collision,Total Loss,Police,3,1,0,0,NO,57948,false
+224,2015-02-02,Multi-vehicle Collision,Major Damage,Ambulance,0,3,1,3,NO,70290,false
+176,2015-02-05,Multi-vehicle Collision,Trivial Damage,Ambulance,20,3,1,3,?,32312,true
+175,2015-02-04,Multi-vehicle Collision,Total Loss,Fire,0,3,0,0,?,6849,false
+658,2015-01-14,Single Vehicle Collision,Minor Damage,Police,20,3,0,3,YES,71234,true
+781,2015-02-26,Multi-vehicle Collision,Total Loss,Fire,3,1,0,3,?,64734,false
+96,2015-01-30,Single Vehicle Collision,Minor Damage,Police,3,1,0,0,?,85271,false
+673,2015-01-14,Single Vehicle Collision,Total Loss,Ambulance,20,3,1,1,?,67306,true
+151,2015-01-22,Single Vehicle Collision,Total Loss,Police,0,1,1,2,?,61384,true
+869,2015-01-13,Vehicle Theft,Minor Damage,Ambulance,3,1,0,2,?,37526,false
+779,2015-01-21,Single Vehicle Collision,Total Loss,Police,3,1,0,3,?,58300,false
+504,2015-02-26,Parked Car,Trivial Damage,Fire,19,3,1,1,?,42661,false
+622,2015-02-13,Parked Car,Major Damage,Fire,20,3,2,3,NO,66747,true
+382,2015-01-22,Single Vehicle Collision,Minor Damage,Fire,0,1,1,0,NO,84889,false
+69,2015-01-07,Multi-vehicle Collision,Major Damage,Police,0,1,1,0,NO,3200,true
+687,2015-02-04,Multi-vehicle Collision,Major Damage,None,19,1,0,3,NO,84638,true
+91,2015-02-07,Vehicle Theft,Minor Damage,Police,3,3,2,0,?,49666,false
+579,2015-01-27,Single Vehicle Collision,Trivial Damage,Other,20,3,2,2,?,63266,false
+968,2015-01-15,Vehicle Theft,Major Damage,Fire,3,1,1,1,NO,49023,false
+794,2015-01-17,Multi-vehicle Collision,Major Damage,None,23,1,1,0,?,76904,true
+171,2015-02-05,Single Vehicle Collision,Total Loss,Other,20,1,1,0,?,80081,false
+92,2015-02-08,Single Vehicle Collision,Total Loss,Ambulance,3,3,2,3,NO,5170,false
+105,2015-01-27,Single Vehicle Collision,Minor Damage,Ambulance,19,1,0,1,?,87032,true
+562,2015-02-25,Multi-vehicle Collision,Major Damage,Fire,20,3,0,0,?,75515,false
+45,2015-02-06,Parked Car,Total Loss,Police,23,2,1,3,NO,37792,true
+303,2015-01-09,Single Vehicle Collision,Minor Damage,Fire,19,1,2,0,YES,55033,false
+855,2015-01-07,Multi-vehicle Collision,Major Damage,Police,0,1,1,2,NO,63250,true
+618,2015-02-27,Single Vehicle Collision,Major Damage,Other,0,3,1,3,NO,35314,false
+540,2015-01-01,Multi-vehicle Collision,Total Loss,Police,19,1,2,1,NO,61383,true
+454,2015-02-09,Multi-vehicle Collision,Total Loss,Police,0,1,1,3,YES,55618,false
+851,2015-01-30,Vehicle Theft,Trivial Damage,Other,0,1,0,3,NO,52700,true
+119,2015-01-10,Single Vehicle Collision,Major Damage,Fire,20,3,1,0,NO,87857,false
+178,2015-02-07,Multi-vehicle Collision,Minor Damage,Police,3,1,2,1,YES,82821,true
+657,2015-01-23,Multi-vehicle Collision,Major Damage,Fire,3,1,1,3,NO,6655,false
+291,2015-01-04,Vehicle Theft,Total Loss,Other,23,1,1,3,?,39106,false
+284,2015-02-14,Single Vehicle Collision,Trivial Damage,Fire,19,1,1,1,NO,35972,true
+881,2015-01-16,Parked Car,Minor Damage,Police,3,1,1,3,?,53280,false
+537,2015-01-22,Single Vehicle Collision,Total Loss,Police,0,1,1,2,?,32397,false
+617,2015-01-07,Multi-vehicle Collision,Minor Damage,Fire,19,3,0,0,YES,64100,true
+396,2015-01-13,Multi-vehicle Collision,Major Damage,Other,19,1,0,3,?,5000,true
+917,2015-02-01,Single Vehicle Collision,Trivial Damage,Ambulance,3,1,2,1,?,68303,false
+64,2015-01-04,Single Vehicle Collision,Major Damage,Ambulance,0,1,0,2,?,88354,true
+586,2015-01-31,Single Vehicle Collision,Minor Damage,Police,3,1,0,3,NO,51035,false
+348,2015-01-12,Single Vehicle Collision,Major Damage,Police,3,3,0,1,NO,81070,false
+327,2015-01-27,Multi-vehicle Collision,Major Damage,Police,3,1,2,1,?,76177,false
+833,2015-02-17,Single Vehicle Collision,Total Loss,Other,23,1,1,1,YES,39710,false
+626,2015-01-19,Multi-vehicle Collision,Minor Damage,Other,3,3,0,1,YES,51119,true
+700,2015-02-20,Single Vehicle Collision,Total Loss,Other,20,1,0,0,?,52541,false
+497,2015-02-04,Single Vehicle Collision,Minor Damage,Fire,3,1,0,2,?,48360,false
+412,2015-02-02,Single Vehicle Collision,Major Damage,Fire,3,1,0,0,YES,70900,true
+374,2015-02-25,Single Vehicle Collision,Total Loss,Police,3,1,2,1,YES,29421,false
+489,2015-01-31,Multi-vehicle Collision,Major Damage,Fire,0,3,1,0,NO,63162,true
+97,2015-02-05,Multi-vehicle Collision,Trivial Damage,Fire,0,1,1,2,YES,63580,true
+826,2015-02-05,Single Vehicle Collision,Total Loss,Police,3,1,0,0,?,40682,false
+935,2015-01-23,Multi-vehicle Collision,Minor Damage,Ambulance,3,3,0,1,NO,57330,false
+523,2015-01-17,Vehicle Theft,Major Damage,Fire,0,1,2,1,?,48075,false
