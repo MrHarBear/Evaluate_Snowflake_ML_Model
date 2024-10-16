@@ -1,5 +1,5 @@
 # ⛐Evaluate your Snowflake ML Models and Detect Drifts⛐
-From Snowflake World Tour London 2024: Ever trained a model inside Snowflake and thought, "What's next?"🤔 How do you keep it accurate and stop it from drifting away🎯? In this demo, I share the techniques to evaluate and monitor your ML models!
+Ever trained a model inside Snowflake and thought, "What's next?"🤔 How do you keep it accurate and stop it from drifting away🎯? In this repo, which I demoed on stage at the Snowflake World Tour London 2024, I will share the basic techniques to evaluate and monitor your ML models!
 
 ### What We'll Do:
 1. **Data Ingestion**: Fetch claims and customer data from the GitHub repository.
