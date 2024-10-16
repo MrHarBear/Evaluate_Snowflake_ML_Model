@@ -26,6 +26,6 @@ Ever trained a model inside Snowflake and thought, "What's next?"🤔 How do you
 4. Run through each of the notebook and enjoy!
 
 ## Disclaimer:
-There are a few components I borrowed from my colleague's repo where he built a simple end-to-end ML pipeline. I strongly encourage you to check it out afterwards! [snowflake_simple_ml](https://github.com/michaelgorkow/snowflake_simple_ml/tree/main)
+There are a few components I borrowed from my colleague's repo where he built a beautiful end-to-end ML pipeline. I strongly encourage you to check it out afterwards! [snowflake_simple_ml](https://github.com/michaelgorkow/snowflake_simple_ml/tree/main)
 
 ## Any question just let me know!
