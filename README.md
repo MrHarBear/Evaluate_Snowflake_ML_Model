@@ -35,7 +35,8 @@ The architecture above illustrates the basics steps of how we will execute the m
 - **External Access Integration**: `GITHUB_EXTERNAL_ACCESS_INTEGRATION`
 - **NOTIFICATION INTEGRATION**: `drift_report_email_integration`
 2. Upload the 3 Notebooks into the `SWT2024_DEMO_AUTO_INSURANCE.NOTEBOOK` schema
-4. Run through each of the notebooks and enjoy!
+3. Run through each of the notebooks and enjoy!
+4. If you are interested to see model drift report in Streamlit, install the Streamlit app in the `NOTEBOOK` schema in the same database. 
 
 ## Disclaimer:
 Some components are adapted from [Michael Gorkow's](https://github.com/michaelgorkow) repository, where he built a beautiful end-to-end ML pipeline. I strongly encourage you to check it out: [snowflake_simple_ml](https://github.com/michaelgorkow/snowflake_simple_ml/tree/main)
