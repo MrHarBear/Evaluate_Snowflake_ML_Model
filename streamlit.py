@@ -19,7 +19,7 @@ report_selection = st.selectbox('Select Report File:', files)
 
 @st.cache_data
 def get_report():
-    file = session.file.get_stream(f'@CONTAINER_RUNTIME_LAB.NOTEBOOKS.{report_selection}').read()
+    file = session.file.get_stream(f'@SWT2024_DEMO_AUTO_INSURANCE.NOTEBOOKS.{report_selection}').read()
     
     # Convert bytes to string
     html_content = file.decode('utf-8')
