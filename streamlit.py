@@ -10,7 +10,7 @@ st.title("Drift Detection Reports")
 session = get_active_session()
 
 # Get available reports
-files = session.sql('LS @CONTAINER_RUNTIME_LAB.NOTEBOOKS.MONITORING').collect()
+files = session.sql('LS @SWT2024_DEMO_AUTO_INSURANCE.NOTEBOOK.MONITORING').collect()
 files = sorted(
     [file['name'] for file in files if file['name'].endswith('.html')],
     reverse=True
