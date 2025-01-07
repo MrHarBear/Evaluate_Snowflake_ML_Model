@@ -32,6 +32,7 @@ CREATE OR REPLACE NETWORK RULE GITHUB_NETWORK_RULE
   COMMENT = 'Allow access to GitHub';
 
 -- External Access Integration for the Policy and Notebook Integration
+-- TRIAL ACCOUNT: The below will give you an error. Ignore this and continue!
 CREATE OR REPLACE EXTERNAL ACCESS INTEGRATION GITHUB_EXTERNAL_ACCESS_INTEGRATION
     ALLOWED_NETWORK_RULES = ('GITHUB_NETWORK_RULE')
     ENABLED = TRUE
