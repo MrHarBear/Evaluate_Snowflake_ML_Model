@@ -34,8 +34,8 @@ The architecture above illustrates the basics steps of how we will execute the m
 - **Network Rule**: `GITHUB_NETWORK_RULE`
 - **External Access Integration**: `GITHUB_EXTERNAL_ACCESS_INTEGRATION`
 - **NOTIFICATION INTEGRATION**: `drift_report_email_integration`
-2. Upload the 3 Notebooks into the `SWT2024_DEMO_AUTO_INSURANCE.NOTEBOOK` schema
-3. Run through each of the notebooks and enjoy!
+2. Upload the 3 Notebooks into the `SWT2024_DEMO_AUTO_INSURANCE.NOTEBOOK` schema. Use `Demo_WH` Warehouse
+3. Run through each of the notebooks and enjoy! If you are using a trial account, you will need to manually upload the `csv` files into Snowflake and in the `DATA` schema.
 4. If you are interested to see model drift report in Streamlit, install the Streamlit app in the `NOTEBOOK` schema in the same database. 
 
 ## Disclaimer:
